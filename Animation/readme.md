@@ -1,6 +1,3 @@
-#Animation
-
-
 **HOW TO**
 - Add this to your main file
 ```Processing
